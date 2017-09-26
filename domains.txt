@@ -1,6 +1,8 @@
 123mail.org
+126.com
 150mail.com
 150ml.com
+163.com
 16mail.com
 2-mail.com
 2trom.com
@@ -15,6 +17,7 @@ adexec.com
 africamail.com
 aircraftmail.com
 airpost.net
+aliyun.com
 allergist.com
 allmail.net
 alumni.com
@@ -201,6 +204,7 @@ lawyer.com
 legislator.com
 letterboxes.org
 linuxmail.org
+live.cn
 live.co.uk
 live.com
 live.com.au
@@ -316,6 +320,8 @@ sent.as
 sent.at
 sent.com
 seznam.cz
+sina.com
+sina.com.cn
 snakebite.com
 socialworker.net
 sociologist.com
@@ -341,6 +347,15 @@ the-quickest.com
 theinternetemail.com
 theplate.com
 therapist.net
+thexyz.ca
+thexyz.cn
+thexyz.com
+thexyz.es
+thexyz.fr
+thexyz.in
+thexyz.mobi
+thexyz.net
+thexyz.org
 toke.com
 toothfairy.com
 torontomail.com
@@ -353,9 +368,13 @@ uymail.com
 veryfast.biz
 veryspeedy.net
 virginbroadband.com.au
-walla.com
 walla.co.il
+walla.com
 warpmail.net
+webmail.blue
+webmail.fish
+webmail.lawyer
+webmail.wiki
 webname.com
 westnet.com.au
 windowslive.com
@@ -364,6 +383,7 @@ workmail.com
 writeme.com
 xsmail.com
 xtra.co.nz
+xyz.am
 y7mail.com
 yahoo.ae
 yahoo.at
@@ -416,4 +436,6 @@ yandex.ru
 yepmail.net
 ymail.com
 your-mail.com
+z9mail.com
 zoho.com
+zooglemail.com
